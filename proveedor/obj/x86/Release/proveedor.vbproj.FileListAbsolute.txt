@@ -1,0 +1,10 @@
+C:\Users\isa liberato 2\Desktop\archivos andres\programas de andres 4toAinf\proveedor\proveedor\obj\x86\Release\WindowsApplication1.Form1.resources
+C:\Users\isa liberato 2\Desktop\archivos andres\programas de andres 4toAinf\proveedor\proveedor\obj\x86\Release\WindowsApplication1.Form2.resources
+C:\Users\isa liberato 2\Desktop\archivos andres\programas de andres 4toAinf\proveedor\proveedor\obj\x86\Release\WindowsApplication1.Resources.resources
+C:\Users\isa liberato 2\Desktop\archivos andres\programas de andres 4toAinf\proveedor\proveedor\obj\x86\Release\proveedor.vbproj.GenerateResource.Cache
+C:\Users\isa liberato 2\Desktop\archivos andres\programas de andres 4toAinf\proveedor\proveedor\bin\Release\proveedor.exe
+C:\Users\isa liberato 2\Desktop\archivos andres\programas de andres 4toAinf\proveedor\proveedor\bin\Release\proveedor.pdb
+C:\Users\isa liberato 2\Desktop\archivos andres\programas de andres 4toAinf\proveedor\proveedor\bin\Release\proveedor.xml
+C:\Users\isa liberato 2\Desktop\archivos andres\programas de andres 4toAinf\proveedor\proveedor\obj\x86\Release\proveedor.exe
+C:\Users\isa liberato 2\Desktop\archivos andres\programas de andres 4toAinf\proveedor\proveedor\obj\x86\Release\proveedor.xml
+C:\Users\isa liberato 2\Desktop\archivos andres\programas de andres 4toAinf\proveedor\proveedor\obj\x86\Release\proveedor.pdb

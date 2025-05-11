@@ -1,0 +1,21 @@
+C:\Users\isa liberato 2\Desktop\archivos andres\proveedor\proveedor\obj\x86\Debug\WindowsApplication1.Form1.resources
+C:\Users\isa liberato 2\Desktop\archivos andres\proveedor\proveedor\obj\x86\Debug\WindowsApplication1.Resources.resources
+C:\Users\isa liberato 2\Desktop\archivos andres\proveedor\proveedor\obj\x86\Debug\proveedor.vbproj.GenerateResource.Cache
+C:\Users\isa liberato 2\Desktop\archivos andres\proveedor\proveedor\bin\Debug\proveedor.exe
+C:\Users\isa liberato 2\Desktop\archivos andres\proveedor\proveedor\bin\Debug\proveedor.pdb
+C:\Users\isa liberato 2\Desktop\archivos andres\proveedor\proveedor\bin\Debug\proveedor.xml
+C:\Users\isa liberato 2\Desktop\archivos andres\proveedor\proveedor\obj\x86\Debug\proveedor.exe
+C:\Users\isa liberato 2\Desktop\archivos andres\proveedor\proveedor\obj\x86\Debug\proveedor.xml
+C:\Users\isa liberato 2\Desktop\archivos andres\proveedor\proveedor\obj\x86\Debug\proveedor.pdb
+C:\Users\isa liberato 2\Desktop\archivos andres\proveedor\proveedor\obj\x86\Debug\WindowsApplication1.Form2.resources
+C:\Users\isa liberato 2\Desktop\archivos andres\programas de andres 4toAinf\proveedor\proveedor\obj\x86\Debug\proveedor.exe
+C:\Users\isa liberato 2\Desktop\archivos andres\programas de andres 4toAinf\proveedor\proveedor\obj\x86\Debug\proveedor.xml
+C:\Users\isa liberato 2\Desktop\archivos andres\programas de andres 4toAinf\proveedor\proveedor\obj\x86\Debug\proveedor.pdb
+C:\Users\isa liberato 2\Desktop\archivos andres\programas de andres 4toAinf\proveedor\proveedor\obj\x86\Debug\WindowsApplication1.Form1.resources
+C:\Users\isa liberato 2\Desktop\archivos andres\programas de andres 4toAinf\proveedor\proveedor\obj\x86\Debug\WindowsApplication1.Form2.resources
+C:\Users\isa liberato 2\Desktop\archivos andres\programas de andres 4toAinf\proveedor\proveedor\obj\x86\Debug\WindowsApplication1.Resources.resources
+C:\Users\isa liberato 2\Desktop\archivos andres\programas de andres 4toAinf\proveedor\proveedor\obj\x86\Debug\proveedor.vbproj.GenerateResource.Cache
+C:\Users\isa liberato 2\Desktop\archivos andres\programas de andres 4toAinf\proveedor\proveedor\bin\Debug\proveedor.exe
+C:\Users\isa liberato 2\Desktop\archivos andres\programas de andres 4toAinf\proveedor\proveedor\bin\Debug\proveedor.pdb
+C:\Users\isa liberato 2\Desktop\archivos andres\programas de andres 4toAinf\proveedor\proveedor\bin\Debug\proveedor.xml
+C:\Users\isa liberato 2\Desktop\archivos andres\programas de andres 4toAinf\proveedor\proveedor\obj\x86\Debug\WindowsApplication1.Form3.resources
